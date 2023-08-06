@@ -1,0 +1,7 @@
+2023-08-06 02:25:01.676735 - Initialized conversion of CBT238
+2023-08-06 02:25:01.776425 - Received CBT.V505.FILE238.PDS from FILE238.XMI 
+2023-08-06 02:25:01.777623 - Found CPARM.bin containing application/octet-stream, moved to PDS/CPARM
+2023-08-06 02:25:01.778829 - Found PRCBGEN.bin containing application/octet-stream, moved to PDS/PRCBGEN
+2023-08-06 02:25:01.779856 - Found REASM.bin containing application/octet-stream, moved to PDS/REASM
+2023-08-06 02:25:01.781210 - Found REASMOLD.bin containing application/octet-stream, moved to PDS/REASMOLD
+2023-08-06 02:25:01.782449 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
